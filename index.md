@@ -1,5 +1,5 @@
 <h1>
-  <a href="https://github.com/SCCapstone/GamecockStudy-formally-SportsMeetUp-" style = "float:left">Gamecock Study App</a>
+  <a href="https://gamecockstudy.wordpress.com/" style = "float:left">Gamecock Study App</a>
   <a href="https://jameseverette.github.io/dataVis/" style = "float:right">Data Visualization</a>
 </h1>
 <img src="https://cloud.githubusercontent.com/assets/5387510/23328731/38d46710-faf7-11e6-8dcf-749d2965af08.png"  width="216" height="384" alt="">
