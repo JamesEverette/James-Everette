@@ -7,3 +7,7 @@
   <h2><a href="https://jameseverette.github.io/dataVis/">Data Visualization</a></h2>
   <img src="https://cloud.githubusercontent.com/assets/5387510/25299814/017f8f96-26d1-11e7-8ee5-e9cc976b9993.png"  width="600" height="275" alt="">
 </div>
+<div>
+  <h2><a href="https://github.com/JamesEverette/seniorCheck">Senior Check Application</a></h2>
+  <img src="https://raw.githubusercontent.com/JamesEverette/seniorCheck/master/seniorCheck.png"  width="600" height="275" alt="">
+</div>
