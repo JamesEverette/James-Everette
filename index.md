@@ -9,5 +9,5 @@
 </div>
 <div>
   <h2><a href="https://github.com/JamesEverette/seniorCheck">Senior Check Application</a></h2>
-  <img src="https://raw.githubusercontent.com/JamesEverette/seniorCheck/master/seniorCheck.png"  width="600" height="275" alt="">
+  <img src="https://raw.githubusercontent.com/JamesEverette/seniorCheck/master/seniorCheck.png"  width="495" height="275" alt="">
 </div>
