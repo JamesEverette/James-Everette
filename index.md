@@ -1,5 +1,5 @@
 <div>
-  <h2><a href="https://github.com/JamesEverette">View My Repos</a></h2>
+  <h1><a href="https://github.com/JamesEverette">View My Repos</a></h1>
 </div>
 <div>
   <h2><a href="https://gamecockstudy.wordpress.com/">Gamecock Study App</a></h2>
