@@ -1,9 +1,3 @@
-  <header>
-<div>
-  <h1><a href="https://github.com/JamesEverette">View My Repos</a></h1>
-</div>
-  </header>
-
 <div>
   <h2><a href="https://gamecockstudy.wordpress.com/">Gamecock Study App</a></h2>
   <img src="https://cloud.githubusercontent.com/assets/5387510/23328731/38d46710-faf7-11e6-8dcf-749d2965af08.png"  width="216" height="384" alt="" style="padding:2px">
