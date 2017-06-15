@@ -11,7 +11,8 @@ body {
 }
 .header {
     padding: 5px;
-    margin: 100px 20px;
+    margin-top: 20px;
+    margin-bottom: 100px
 }
 .left {
     width: 50%;
