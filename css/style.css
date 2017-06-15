@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 .header {
-    border: 1px solid red;
+    border: 1px solid blue;
     padding: 10px;
 }
 .left {
