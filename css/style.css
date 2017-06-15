@@ -3,17 +3,17 @@
 }
 .header {
     border: 1px solid red;
-    padding: 15px;
+    padding: 10px;
 }
 .left {
     width: 50%;
     float: left;
-    padding: 15px;
+    padding: 10px;
     border: 1px solid red;
 }
 .right {
     width: 50%;
-    float: left;
-    padding: 15px;
+    float: right;
+    padding: 10px;
     border: 1px solid red;
 }
