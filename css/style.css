@@ -6,13 +6,13 @@
     padding: 10px;
 }
 .left {
-    width: 49%;
+    width: 40%;
     float: left;
     padding: 10px;
     border: 1px solid red;
 }
 .right {
-    width: 49%;
+    width: 40%;
     float: right;
     padding: 10px;
     border: 1px solid red;
