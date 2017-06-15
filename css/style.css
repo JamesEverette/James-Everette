@@ -2,18 +2,16 @@
     box-sizing: border-box;
 }
 .header {
-    border: 1px solid blue;
     padding: 5px;
+    display: inline-block;
 }
 .left {
     width: 50%;
     float: left;
     padding: 5px;
-    border: 1px solid red;
 }
 .right {
     width: 50%;
     float: right;
     padding: 5px;
-    border: 1px solid blue;
 }
