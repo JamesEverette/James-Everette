@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head>
 <div>
   <h2><a href="https://jameseverette.github.io/James-Everette/resume.pdf">Resume</a></h2>
 <div>
@@ -13,3 +16,28 @@
   <h2><a href="https://github.com/JamesEverette/seniorCheck">Senior Check Application</a></h2>
   <img src="https://raw.githubusercontent.com/JamesEverette/seniorCheck/master/seniorCheck.png"  width="495" height="275" alt="">
 </div>
+
+</head>
+<body>
+
+<div class="header">
+  <h1>Chania</h1>
+</div>
+
+<div class="left">
+  <ul>
+    <li>The Flight</li>
+    <li>The City</li>
+    <li>The Island</li>
+    <li>The Food</li>
+  </ul>
+</div>
+
+<div class="right">
+  <h1>The City</h1>
+  <p>Chania is the capital of the Chania region on the island of Crete. The city can be divided in two parts, the old town and the modern city.</p>
+  <p>Resize the browser window to see how the content respond to the resizing.</p>
+</div>
+
+</body>
+</html>
