@@ -1,4 +1,7 @@
 <div>
+  <h2><a href="https://jameseverette.github.io/James-Everette/resume.pdf">Resume</a></h2>
+<div>
+<div>
   <h2><a href="https://github.com/JamesEverette/pythonBot">PyAiBot</a></h2>
   <img src="https://cloud.githubusercontent.com/assets/5387510/26640759/9d6d203c-45f6-11e7-9545-c9b46790da32.gif"  width="450" height="384" alt="" style="padding:2px">
 <div>
