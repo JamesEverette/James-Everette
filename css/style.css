@@ -15,12 +15,12 @@ body {
 .left {
     width: 50%;
     float: left;
-    padding: 5px;
+    padding: 10px;
 }
 .right {
     width: 50%;
     float: right;
-    padding: 5px;
+    padding: 10px;
 }
 a:link {
     text-decoration: none;
