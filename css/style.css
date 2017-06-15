@@ -1,0 +1,19 @@
+{
+    box-sizing: border-box;
+}
+.header {
+    border: 1px solid red;
+    padding: 15px;
+}
+.left {
+    width: 50%;
+    float: left;
+    padding: 15px;
+    border: 1px solid red;
+}
+.right {
+    width: 50%;
+    float: left;
+    padding: 15px;
+    border: 1px solid red;
+}
