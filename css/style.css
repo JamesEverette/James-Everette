@@ -22,17 +22,16 @@ body {
     float: right;
     padding: 10px;
 }
-a:link {
-    color: #3F5978;
+a:link {  
+    color: white;
     text-decoration: none;
-    background-color: #F3F4F6;
+    background-color: rgba(63, 89, 120, 0.45);
     cursor: pointer;
     border: 1px solid;
     border-radius: 6px;
     padding: 10px 15px;
     text-align: center;
     margin: 2px 2px;
-    text-decoration: none;
 }
 ul {
     list-style-type: none;
