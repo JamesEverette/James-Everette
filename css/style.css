@@ -1,7 +1,9 @@
 * {
     box-sizing: border-box;
     background-image: url("bg3.png");
-    background-repeat: repeat-x;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 .header {
     padding: 5px;
